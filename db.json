@@ -1,0 +1,48 @@
+{
+  "houses": [
+    {
+      "name": "pens",
+      "ownerName": "asdsad",
+      "address": "asdasa",
+      "areaCode": "asa",
+      "rent": "sas",
+      "bachelor": true,
+      "married": false,
+      "image": "asasas",
+      "id": 1
+    },
+    {
+      "name": "asdasd",
+      "ownerName": "asdas",
+      "address": "asd",
+      "areaCode": "asd",
+      "rent": "asd",
+      "bachelor": false,
+      "married": false,
+      "image": "asd",
+      "id": 2
+    },
+    {
+      "name": "asdasd",
+      "ownerName": "asdas",
+      "address": "asd",
+      "areaCode": "asd",
+      "rent": "asd",
+      "bachelor": false,
+      "married": false,
+      "image": "asd",
+      "id": 3
+    },
+    {
+      "name": "asdasd",
+      "ownerName": "asdas",
+      "address": "asd",
+      "areaCode": "asd",
+      "rent": "asd",
+      "bachelor": false,
+      "married": false,
+      "image": "asd",
+      "id": 4
+    }
+  ]
+}
